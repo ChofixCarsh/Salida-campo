@@ -1,4 +1,4 @@
-;PM10;PM2.5;Vel Viento;Precipitacion;Dir Viento;OZONO;CO;NO;NO2;NOX;SO2;Temperatura;Radiación;HR;Presion Baro
+Fecha;PM10;PM2.5;Vel Viento;Precipitacion;Dir Viento;OZONO;CO;NO;NO2;NOX;SO2;Temperatura;Radiación;HR;Presion Baro
 01-01-2024 24:00;26,1;22,4;1,4;0,1;262;14,3;0,4;6,9;11,4;18,3;0;17;0;65;565
 02-01-2024 24:00;29,3;20,4;1,5;0;353;15,9;0,5;14,3;17,8;32;0;16,7;0;62;564
 03-01-2024 24:00;35,4;21;1,5;0;240;14,3;0,7;22,5;20,3;42,8;0;16,4;0;62;564
